@@ -28,9 +28,9 @@ let todoList = {
     }
 };
 
-todoList.addTask("Kitob o‘qish");
+todoList.addTask('Kitob o\'qish');
 todoList.addTask("Dars qilish");
-todoList.addTask("Sport bilan shug‘ullanish");
+todoList.addTask('Sport bilan shug\'ullanish');
 
 todoList.printTasks();
 
